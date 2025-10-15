@@ -3,7 +3,7 @@ model: B4 Plus
 slug: bmax-b4-plus
 u_height: 1
 is_full_depth: false
-air_flow: 
+air_flow: right-to-left
 part_number:
 front_image:
 rear_image:
