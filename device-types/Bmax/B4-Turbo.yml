@@ -11,3 +11,8 @@ comments:
 is_powered: true
 weight: 300
 weight_unit: g
+interfaces:
+  - name: enp2s0
+    type: 1000Base-T
+  - name: wlp1s0
+    type: ieee802.11ac
