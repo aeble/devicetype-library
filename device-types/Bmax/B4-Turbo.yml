@@ -3,7 +3,7 @@ model: B4 Turbo
 slug: bmax-b4-turbo
 u_height: 1
 is_full_depth: false
-air_flow: 
+air_flow: right-to-left
 part_number:
 front_image:
 rear_image:
