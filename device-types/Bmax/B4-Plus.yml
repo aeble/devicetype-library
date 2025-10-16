@@ -4,10 +4,13 @@ slug: bmax-b4-plus
 u_height: 1
 is_full_depth: false
 air_flow: right-to-left
-part_number:
+part_number: G3N2
 front_image:
 rear_image:
 comments:
 is_powered: true
 weight: 300
 weight_unit: g
+interfaces:
+  - name: wlp1s0
+  - type: ieee802.11ac
